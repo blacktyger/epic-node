@@ -7,7 +7,7 @@ The idea is to help people with better undesrtanding how Epic-Cash and MimbleWim
 
 ### Node:
 - Stats like height, peers, blockchain size
-- Public Foreign API access (https://epicradar.tech/node/)
+- Public Foreign API access (ie. https://epicradar.tech/node/)
 
 ### Wallet:
 - Live previev balance, transactions history
