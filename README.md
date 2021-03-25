@@ -27,8 +27,8 @@ The idea is to help people with better undesrtanding how Epic-Cash and MimbleWim
 - Market stats - price, volume, exchanges
 - Pools stats
 
-![image](https://user-images.githubusercontent.com/53139520/112482506-0bdfc500-8d70-11eb-8888-85f714e6a32b.png)
-![image](https://user-images.githubusercontent.com/53139520/112482609-274ad000-8d70-11eb-9b4e-1368c846a775.png)
+![image](https://user-images.githubusercontent.com/53139520/112483628-1ea6c980-8d71-11eb-9a9e-10740e594dc6.png)
+
 
 
 <br><br>
