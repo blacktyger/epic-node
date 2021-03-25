@@ -33,11 +33,12 @@ The idea is to help people with better undesrtanding how Epic-Cash and MimbleWim
 
 ![image](https://user-images.githubusercontent.com/53139520/112483763-3e3df200-8d71-11eb-80a1-b873e7ccd26f.png)
 
-<br>
 ### Stack:
+
 - Python 
 - Django
 - JS / CSS
-# Thanks to Epic-Cash community
+- 
+## Thanks to Epic-Cash community
 
 Donations: https://epicfundme.com/109
