@@ -38,7 +38,7 @@ The idea is to help people with better undesrtanding how Epic-Cash and MimbleWim
 - Python 
 - Django
 - JS / CSS
-- 
+
 ## Thanks to Epic-Cash community
 
 Donations: https://epicfundme.com/109
