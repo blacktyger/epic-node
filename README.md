@@ -26,15 +26,15 @@ The idea is to help people with better undesrtanding how Epic-Cash and MimbleWim
 - Stellar XLM -> EPIC swaps
 - Market stats - price, volume, exchanges
 - Pools stats
-<br>
+
+### Screens:
 
 ![image](https://user-images.githubusercontent.com/53139520/112483628-1ea6c980-8d71-11eb-9a9e-10740e594dc6.png)
 
 ![image](https://user-images.githubusercontent.com/53139520/112483763-3e3df200-8d71-11eb-80a1-b873e7ccd26f.png)
 
+<br>
+# Thanks to Epic-Cash community
 
-
-<br><br>
-Thanks to Epic-Cash community
 
 Donations: https://epicfundme.com/109
